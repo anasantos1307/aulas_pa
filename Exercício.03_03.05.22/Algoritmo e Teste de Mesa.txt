@@ -1,0 +1,13 @@
+Algoritmo PagamentoComissão
+   Entre com o preço da peça e atribua a peca 
+   Entre com a quantidade de peças vendidas e atribua a quantidade
+   Faça peça*quantidade e atribua o resultado para total
+   Faça total*0.05 e atribua o valor para comissao
+   Mostre a comissao
+FimAlgoritmo
+
+
+Teste de Mesa
+peca	quantidade	total	comissao
+2.5	200		500	25.00(5%)
+4.5	150		675	33.75(5%)

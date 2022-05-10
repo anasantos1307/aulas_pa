@@ -1,0 +1,11 @@
+Algoritmo CalculoCustoDeConsumidor
+   Entre com o valor do custo de fábrica do carro e atribua a custo_fabrica
+   Faça custo_fabrica*1.45 e atribua o resultado a impostos
+   Faça impostos*1,28 e atribua o resultado para distribuicao
+   Mostre distribuicao
+FimAlgoritmo
+
+
+Teste de Mesa
+custo_fabrica	impostos	distribuicao	total
+25.000		11.250		10.150		46.400 	

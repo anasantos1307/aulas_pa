@@ -1,0 +1,12 @@
+Algoritmo CalculoGastoGasolina
+   Entre com um valor para quilômetros a serem percorridos e atribua a km
+   Entre com um valor para média de quilometragem por litro e atribua a consumo
+   Entre com um valor para o preço da gasolina e atribua a gasolina
+   Faça (km/consumo) * gasolina e atribua para gasto
+   Mostre gasto
+FimAlgoritmo
+
+
+Teste de Mesa
+Km	consumo		gasolina	gasto
+450	10		4,50		202,00

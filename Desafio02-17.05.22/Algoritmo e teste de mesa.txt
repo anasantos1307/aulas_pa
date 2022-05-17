@@ -1,0 +1,15 @@
+Algoritmo CalculoHoraExtra
+   Entre com um valor para as horas e atribua a hora
+   Entre com um valor entre 0 e 59 para os minutos e atribua a minuto
+   Entre com um valor para o dinheiro por hora e atribua a dinheiro
+   Faça (minuto/60) + hora e atribua a conversao
+   Faça conversao*dinheiro e atribua a bonus
+   Faça bonus*1,7 e atribua a salario
+   Mostre salario
+FimAlgoritmo
+
+
+Teste de Mesa
+Hora		Minuto		Conversao	Dinheiro	Salario
+15		45		15.75		25		669,37
+20		0		20		25		850,00

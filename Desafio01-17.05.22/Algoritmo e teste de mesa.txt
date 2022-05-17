@@ -1,0 +1,12 @@
+Algoritmo ConverterHora
+   Entre com um valor para as horas e atribua para hora
+   Entre com um valor entre 0 e 59 para os minutos e atribua para minuto
+   Faça (minutos/60) + hora e atribua para conversao
+   Mostre conversao
+FimAlgoritmo
+
+Teste de Mesa
+Hora		Minuto		Conversao
+4		23		4.38
+3		40		3.67
+1		32		1.52
